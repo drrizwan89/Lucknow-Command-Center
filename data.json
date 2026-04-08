@@ -1,0 +1,31 @@
+{
+    "Lucknow Lok Sabha": {
+        "Lucknow North": {
+            "Aliganj": {"coords": [26.88, 80.95], "demographics": {"total_voters": 55000, "swing_voters": 8000, "youth_18_25": 12000, "win_probability": 65}},
+            "Indira Nagar": {"coords": [26.85, 80.92], "demographics": {"total_voters": 62000, "swing_voters": 15000, "youth_18_25": 14000, "win_probability": 52}},
+            "Telibagh": {"coords": [26.82, 80.91], "demographics": {"total_voters": 48000, "swing_voters": 10000, "youth_18_25": 9000, "win_probability": 45}}
+        },
+        "Lucknow East": {
+            "Old Lucknow": {"coords": [26.84, 80.93], "demographics": {"total_voters": 70000, "swing_voters": 20000, "youth_18_25": 11000, "win_probability": 41}},
+            "Rajajipuram": {"coords": [26.87, 80.98], "demographics": {"total_voters": 58000, "swing_voters": 7000, "youth_18_25": 13000, "win_probability": 68}},
+            "Sushil Colony": {"coords": [26.86, 80.97], "demographics": {"total_voters": 42000, "swing_voters": 5000, "youth_18_25": 8000, "win_probability": 72}}
+        },
+        "Lucknow West": {
+            "Hazratganj": {"coords": [26.85, 80.94], "demographics": {"total_voters": 45000, "swing_voters": 6000, "youth_18_25": 10000, "win_probability": 60}},
+            "Aminabad": {"coords": [26.84, 80.93], "demographics": {"total_voters": 65000, "swing_voters": 18000, "youth_18_25": 12000, "win_probability": 48}},
+            " Gomti Nagar": {"coords": [26.86, 80.98], "demographics": {"total_voters": 80000, "swing_voters": 12000, "youth_18_25": 20000, "win_probability": 75}}
+        },
+        "Lucknow Central": {
+            " Chowk": {"coords": [26.83, 80.93], "demographics": {"total_voters": 60000, "swing_voters": 15000, "youth_18_25": 10000, "win_probability": 50}},
+            "Mayo Hall Area": {"coords": [26.85, 80.94], "demographics": {"total_voters": 30000, "swing_voters": 4000, "youth_18_25": 6000, "win_probability": 65}}
+        },
+        "Sarojini Nagar": {
+            "Outer Ring Road": {"coords": [26.78, 80.90], "demographics": {"total_voters": 90000, "swing_voters": 25000, "youth_18_25": 15000, "win_probability": 44}},
+            "Airport Area": {"coords": [26.75, 80.88], "demographics": {"total_voters": 50000, "swing_voters": 10000, "youth_18_25": 12000, "win_probability": 58}}
+        },
+        "Mohanlalganj": {
+            "Rural Block A": {"coords": [26.80, 81.10], "demographics": {"total_voters": 110000, "swing_voters": 30000, "youth_18_25": 20000, "win_probability": 38}},
+            "Village Cluster B": {"coords": [26.70, 81.15], "demographics": {"total_voters": 85000, "swing_voters": 15000, "youth_18_25": 18000, "win_probability": 55}}
+        }
+    }
+}
