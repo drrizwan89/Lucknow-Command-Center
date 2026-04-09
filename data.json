@@ -1,31 +1,35 @@
 {
+    "Mumbai (Govandi)": {
+        "Mankhurd Shivaji Nagar": {
+            "demographics": {
+                "total_voters": 334136, "male": 187192, "female": 146915, "muslim_pct": 55, "hindu_pct": 38, "sc_pct": 10.81, "turnout": 52.14, "life_expectancy": 39
+            },
+            "wards": {
+                "Ward 134 (Kamala Nagar)": {"coords": [19.06, 72.88], "severity": "High", "demographics": {"total_voters": 14612, "female": 6400, "winner": "AIMIM", "margin": 2216, "win_probability": 30, "muslim_pct": 72, "hindu_pct": 20}},
+                "Ward 135 (Ramabainagar)": {"coords": [19.07, 72.89], "severity": "High", "demographics": {"total_voters": 9098, "female": 4100, "winner": "BJP", "margin": 2058, "win_probability": 70, "muslim_pct": 30, "hindu_pct": 60}},
+                "Ward 136 (Shivajinagar Terminus)": {"coords": [19.08, 72.87], "severity": "High", "demographics": {"total_voters": 19899, "female": 8900, "winner": "AIMIM", "margin": 9943, "win_probability": 15, "muslim_pct": 78, "hindu_pct": 15}},
+                "Ward 137 (Shivajinagar)": {"coords": [19.09, 72.88], "severity": "Very High", "demographics": {"total_voters": 14304, "female": 6400, "winner": "AIMIM", "margin": 4568, "win_probability": 40, "muslim_pct": 80, "hindu_pct": 12}},
+                "Ward 138 (Metro Hospital)": {"coords": [19.05, 72.87], "severity": "Medium-High", "demographics": {"total_voters": 13024, "female": 5800, "winner": "AIMIM", "margin": 1974, "win_probability": 55, "muslim_pct": 50, "hindu_pct": 40}},
+                "Ward 139 (Lotus Colony)": {"coords": [19.04, 72.88], "severity": "High", "demographics": {"total_voters": 14118, "female": 6300, "winner": "AIMIM", "margin": 5782, "win_probability": 25, "muslim_pct": 75, "hindu_pct": 18}},
+                "Ward 140 (Tata Nagar)": {"coords": [19.03, 72.87], "severity": "High", "demographics": {"total_voters": 8367, "female": 3700, "winner": "AIMIM", "margin": 1523, "win_probability": 60, "muslim_pct": 45, "hindu_pct": 45}},
+                "Ward 141 (Municipal Colony)": {"coords": [19.02, 72.86], "severity": "Medium-High", "demographics": {"total_voters": 13544, "female": 6100, "winner": "SS(UBT)", "margin": 3422, "win_probability": 45, "muslim_pct": 20, "hindu_pct": 70}},
+                "Ward 142 (Lalubhai Compound)": {"coords": [19.01, 72.85], "severity": "High", "demographics": {"total_voters": 9800, "female": 4400, "winner": "SHS", "margin": 1076, "win_probability": 65, "muslim_pct": 25, "hindu_pct": 65}},
+                "Ward 143 (Maharashtra Nagar)": {"coords": [19.00, 72.84], "severity": "Very High", "demographics": {"total_voters": 9585, "female": 4300, "winner": "AIMIM", "margin": 943, "win_probability": 75, "muslim_pct": 85, "hindu_pct": 10}},
+                "Ward 144 (Devnar Village)": {"coords": [18.99, 72.83], "severity": "Very High", "demographics": {"total_voters": 15999, "female": 7200, "winner": "BJP", "margin": 1669, "win_probability": 80, "muslim_pct": 30, "hindu_pct": 60}},
+                "Ward 145 (Chitta Camp)": {"coords": [18.98, 72.82], "severity": "High", "demographics": {"total_voters": 13211, "female": 5900, "winner": "AIMIM", "margin": 2095, "win_probability": 40, "muslim_pct": 70, "hindu_pct": 20}},
+                "Ward 146 (Anushakti Colony)": {"coords": [18.97, 72.81], "severity": "High", "demographics": {"total_voters": 14519, "female": 6500, "winner": "SHS", "margin": 5035, "win_probability": 30, "muslim_pct": 20, "hindu_pct": 70}},
+                "Ward 147 (RCF Colony)": {"coords": [18.96, 72.80], "severity": "Medium-High", "demographics": {"total_voters": 9652, "female": 4300, "winner": "SHS", "margin": 636, "win_probability": 70, "muslim_pct": 20, "hindu_pct": 70}},
+                "Ward 148 (HP Nagar)": {"coords": [18.95, 72.79], "severity": "High", "demographics": {"total_voters": 8917, "female": 4000, "winner": "SHS", "margin": 1091, "win_probability": 60, "muslim_pct": 20, "hindu_pct": 70}}
+            }
+        }
+    },
     "Lucknow Lok Sabha": {
         "Lucknow North": {
-            "Aliganj": {"coords": [26.88, 80.95], "demographics": {"total_voters": 55000, "swing_voters": 8000, "youth_18_25": 12000, "win_probability": 65}},
-            "Indira Nagar": {"coords": [26.85, 80.92], "demographics": {"total_voters": 62000, "swing_voters": 15000, "youth_18_25": 14000, "win_probability": 52}},
-            "Telibagh": {"coords": [26.82, 80.91], "demographics": {"total_voters": 48000, "swing_voters": 10000, "youth_18_25": 9000, "win_probability": 45}}
-        },
-        "Lucknow East": {
-            "Old Lucknow": {"coords": [26.84, 80.93], "demographics": {"total_voters": 70000, "swing_voters": 20000, "youth_18_25": 11000, "win_probability": 41}},
-            "Rajajipuram": {"coords": [26.87, 80.98], "demographics": {"total_voters": 58000, "swing_voters": 7000, "youth_18_25": 13000, "win_probability": 68}},
-            "Sushil Colony": {"coords": [26.86, 80.97], "demographics": {"total_voters": 42000, "swing_voters": 5000, "youth_18_25": 8000, "win_probability": 72}}
-        },
-        "Lucknow West": {
-            "Hazratganj": {"coords": [26.85, 80.94], "demographics": {"total_voters": 45000, "swing_voters": 6000, "youth_18_25": 10000, "win_probability": 60}},
-            "Aminabad": {"coords": [26.84, 80.93], "demographics": {"total_voters": 65000, "swing_voters": 18000, "youth_18_25": 12000, "win_probability": 48}},
-            " Gomti Nagar": {"coords": [26.86, 80.98], "demographics": {"total_voters": 80000, "swing_voters": 12000, "youth_18_25": 20000, "win_probability": 75}}
-        },
-        "Lucknow Central": {
-            " Chowk": {"coords": [26.83, 80.93], "demographics": {"total_voters": 60000, "swing_voters": 15000, "youth_18_25": 10000, "win_probability": 50}},
-            "Mayo Hall Area": {"coords": [26.85, 80.94], "demographics": {"total_voters": 30000, "swing_voters": 4000, "youth_18_25": 6000, "win_probability": 65}}
-        },
-        "Sarojini Nagar": {
-            "Outer Ring Road": {"coords": [26.78, 80.90], "demographics": {"total_voters": 90000, "swing_voters": 25000, "youth_18_25": 15000, "win_probability": 44}},
-            "Airport Area": {"coords": [26.75, 80.88], "demographics": {"total_voters": 50000, "swing_voters": 10000, "youth_18_25": 12000, "win_probability": 58}}
-        },
-        "Mohanlalganj": {
-            "Rural Block A": {"coords": [26.80, 81.10], "demographics": {"total_voters": 110000, "swing_voters": 30000, "youth_18_25": 20000, "win_probability": 38}},
-            "Village Cluster B": {"coords": [26.70, 81.15], "demographics": {"total_voters": 85000, "swing_voters": 15000, "youth_18_25": 18000, "win_probability": 55}}
+            "demographics": {"total_voters": 500000, "male": 260000, "female": 240000},
+            "wards": {
+                "Aliganj": {"coords": [26.88, 80.95], "severity": "Medium", "demographics": {"total_voters": 55000, "win_probability": 65, "swing_voters": 8000, "female": 26000}},
+                "Indira Nagar": {"coords": [26.85, 80.92], "severity": "Medium", "demographics": {"total_voters": 62000, "win_probability": 52, "swing_voters": 15000, "female": 30000}}
+            }
         }
     }
 }
