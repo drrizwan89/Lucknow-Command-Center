@@ -1,34 +1,77 @@
 {
-    "Mumbai (Govandi)": {
-        "Mankhurd Shivaji Nagar": {
-            "demographics": {
-                "total_voters": 334136, "male": 187192, "female": 146915, "muslim_pct": 55, "hindu_pct": 38, "sc_pct": 10.81, "turnout": 52.14, "life_expectancy": 39
-            },
+    "Mumbai North East": {
+        "Mulund (155)": {
+            "role": "Margin Engine",
+            "model": "Institutional",
+            "demographics": {"total_voters": 285000, "male": 155000, "female": 130000, "turnout": 58.0, "win_probability": 92, "margin": 45000},
             "wards": {
-                "Ward 134 (Kamala Nagar)": {"coords": [19.06, 72.88], "severity": "High", "demographics": {"total_voters": 14612, "female": 6400, "winner": "AIMIM", "margin": 2216, "win_probability": 30, "muslim_pct": 72, "hindu_pct": 20}},
-                "Ward 135 (Ramabainagar)": {"coords": [19.07, 72.89], "severity": "High", "demographics": {"total_voters": 9098, "female": 4100, "winner": "BJP", "margin": 2058, "win_probability": 70, "muslim_pct": 30, "hindu_pct": 60}},
-                "Ward 136 (Shivajinagar Terminus)": {"coords": [19.08, 72.87], "severity": "High", "demographics": {"total_voters": 19899, "female": 8900, "winner": "AIMIM", "margin": 9943, "win_probability": 15, "muslim_pct": 78, "hindu_pct": 15}},
-                "Ward 137 (Shivajinagar)": {"coords": [19.09, 72.88], "severity": "Very High", "demographics": {"total_voters": 14304, "female": 6400, "winner": "AIMIM", "margin": 4568, "win_probability": 40, "muslim_pct": 80, "hindu_pct": 12}},
-                "Ward 138 (Metro Hospital)": {"coords": [19.05, 72.87], "severity": "Medium-High", "demographics": {"total_voters": 13024, "female": 5800, "winner": "AIMIM", "margin": 1974, "win_probability": 55, "muslim_pct": 50, "hindu_pct": 40}},
-                "Ward 139 (Lotus Colony)": {"coords": [19.04, 72.88], "severity": "High", "demographics": {"total_voters": 14118, "female": 6300, "winner": "AIMIM", "margin": 5782, "win_probability": 25, "muslim_pct": 75, "hindu_pct": 18}},
-                "Ward 140 (Tata Nagar)": {"coords": [19.03, 72.87], "severity": "High", "demographics": {"total_voters": 8367, "female": 3700, "winner": "AIMIM", "margin": 1523, "win_probability": 60, "muslim_pct": 45, "hindu_pct": 45}},
-                "Ward 141 (Municipal Colony)": {"coords": [19.02, 72.86], "severity": "Medium-High", "demographics": {"total_voters": 13544, "female": 6100, "winner": "SS(UBT)", "margin": 3422, "win_probability": 45, "muslim_pct": 20, "hindu_pct": 70}},
-                "Ward 142 (Lalubhai Compound)": {"coords": [19.01, 72.85], "severity": "High", "demographics": {"total_voters": 9800, "female": 4400, "winner": "SHS", "margin": 1076, "win_probability": 65, "muslim_pct": 25, "hindu_pct": 65}},
-                "Ward 143 (Maharashtra Nagar)": {"coords": [19.00, 72.84], "severity": "Very High", "demographics": {"total_voters": 9585, "female": 4300, "winner": "AIMIM", "margin": 943, "win_probability": 75, "muslim_pct": 85, "hindu_pct": 10}},
-                "Ward 144 (Devnar Village)": {"coords": [18.99, 72.83], "severity": "Very High", "demographics": {"total_voters": 15999, "female": 7200, "winner": "BJP", "margin": 1669, "win_probability": 80, "muslim_pct": 30, "hindu_pct": 60}},
-                "Ward 145 (Chitta Camp)": {"coords": [18.98, 72.82], "severity": "High", "demographics": {"total_voters": 13211, "female": 5900, "winner": "AIMIM", "margin": 2095, "win_probability": 40, "muslim_pct": 70, "hindu_pct": 20}},
-                "Ward 146 (Anushakti Colony)": {"coords": [18.97, 72.81], "severity": "High", "demographics": {"total_voters": 14519, "female": 6500, "winner": "SHS", "margin": 5035, "win_probability": 30, "muslim_pct": 20, "hindu_pct": 70}},
-                "Ward 147 (RCF Colony)": {"coords": [18.96, 72.80], "severity": "Medium-High", "demographics": {"total_voters": 9652, "female": 4300, "winner": "SHS", "margin": 636, "win_probability": 70, "muslim_pct": 20, "hindu_pct": 70}},
-                "Ward 148 (HP Nagar)": {"coords": [18.95, 72.79], "severity": "High", "demographics": {"total_voters": 8917, "female": 4000, "winner": "SHS", "margin": 1091, "win_probability": 60, "muslim_pct": 20, "hindu_pct": 70}}
+                "Ward 103 (Tulsi Lake)": {"coords": [19.18, 72.93], "severity": "Low", "demographics": {"total_voters": 42000, "win_probability": 88, "margin": 8000}},
+                "Ward 104 (Siddarth Nagar)": {"coords": [19.19, 72.94], "severity": "Low", "demographics": {"total_voters": 48000, "win_probability": 95, "margin": 12000}},
+                "Ward 105 (Gavhanpada)": {"coords": [19.17, 72.92], "severity": "Medium", "demographics": {"total_voters": 45000, "win_probability": 80, "margin": 5000}},
+                "Ward 106 (Hariom Nagar)": {"coords": [19.18, 72.91], "severity": "Medium", "demographics": {"total_voters": 46000, "win_probability": 82, "margin": 6000}},
+                "Ward 107 (Mulund Core)": {"coords": [19.19, 72.93], "severity": "Low", "demographics": {"total_voters": 52000, "win_probability": 96, "margin": 15000}},
+                "Ward 108 (Hanumanpada)": {"coords": [19.16, 72.93], "severity": "Low", "demographics": {"total_voters": 44000, "win_probability": 85, "margin": 7000}}
             }
-        }
-    },
-    "Lucknow Lok Sabha": {
-        "Lucknow North": {
-            "demographics": {"total_voters": 500000, "male": 260000, "female": 240000},
+        },
+        "Vikhroli (156)": {
+            "role": "Identity Battlefield",
+            "model": "Emotional",
+            "demographics": {"total_voters": 295000, "male": 160000, "female": 135000, "turnout": 52.0, "win_probability": 42, "margin": -5000},
             "wards": {
-                "Aliganj": {"coords": [26.88, 80.95], "severity": "Medium", "demographics": {"total_voters": 55000, "win_probability": 65, "swing_voters": 8000, "female": 26000}},
-                "Indira Nagar": {"coords": [26.85, 80.92], "severity": "Medium", "demographics": {"total_voters": 62000, "win_probability": 52, "swing_voters": 15000, "female": 30000}}
+                "Ward 117 (Kanjur Village)": {"coords": [19.11, 72.92], "severity": "High", "demographics": {"total_voters": 40000, "win_probability": 48, "margin": 1200}},
+                "Ward 118 (Kannamwar Nagar)": {"coords": [19.12, 72.91], "severity": "Very High", "demographics": {"total_voters": 42000, "win_probability": 30, "margin": -4000}},
+                "Ward 119 (Tagore Nagar)": {"coords": [19.13, 72.90], "severity": "Very High", "demographics": {"total_voters": 38000, "win_probability": 25, "margin": -6000}},
+                "Ward 120 (Godrej Colony)": {"coords": [19.10, 72.91], "severity": "Medium", "demographics": {"total_voters": 36000, "win_probability": 55, "margin": 2000}},
+                "Ward 121 (IIT Powai)": {"coords": [19.12, 72.92], "severity": "Low", "demographics": {"total_voters": 32000, "win_probability": 85, "margin": 10000}},
+                "Ward 122 (Hiranandani)": {"coords": [19.13, 72.93], "severity": "Low", "demographics": {"total_voters": 35000, "win_probability": 90, "margin": 12000}}
+            }
+        },
+        "Bhandup West (157)": {
+            "role": "Swing Engine",
+            "model": "Transactional",
+            "demographics": {"total_voters": 310000, "male": 170000, "female": 140000, "turnout": 53.0, "win_probability": 51, "margin": 2000},
+            "wards": {
+                "Ward 109 (Tanaji Wadi)": {"coords": [19.13, 72.91], "severity": "High", "demographics": {"total_voters": 38000, "win_probability": 45, "margin": -1000}},
+                "Ward 110 (Bhandup Sonapur)": {"coords": [19.14, 72.90], "severity": "Very High", "demographics": {"total_voters": 42000, "win_probability": 40, "margin": -2500}},
+                "Ward 111 (Datar Colony)": {"coords": [19.15, 72.91], "severity": "Medium", "demographics": {"total_voters": 36000, "win_probability": 55, "margin": 1500}},
+                "Ward 112 (Punjabi Colony)": {"coords": [19.16, 72.92], "severity": "Medium", "demographics": {"total_voters": 40000, "win_probability": 52, "margin": 800}},
+                "Ward 113 (Milind Nagar)": {"coords": [19.14, 72.89], "severity": "Very High", "demographics": {"total_voters": 37000, "win_probability": 38, "margin": -3000}},
+                "Ward 114 (Kranti Nagar)": {"coords": [19.15, 72.88], "severity": "Very High", "demographics": {"total_voters": 39000, "win_probability": 42, "margin": -1800}},
+                "Ward 115 (Kokannagar)": {"coords": [19.13, 72.87], "severity": "High", "demographics": {"total_voters": 35000, "win_probability": 50, "margin": 200}},
+                "Ward 116 (New Colony)": {"coords": [19.12, 72.88], "severity": "Medium", "demographics": {"total_voters": 38000, "win_probability": 58, "margin": 3000}}
+            }
+        },
+        "Ghatkopar West (169)": {
+            "role": "Retention Zone",
+            "model": "Institutional",
+            "demographics": {"total_voters": 270000, "male": 140000, "female": 130000, "turnout": 54.0, "win_probability": 88, "margin": 30000},
+            "wards": {
+                "Ward 126 (Jagdusha Nagar)": {"coords": [19.09, 72.91], "severity": "Low", "demographics": {"total_voters": 65000, "win_probability": 90, "margin": 12000}},
+                "Ward 127 (Ramnagar)": {"coords": [19.08, 72.90], "severity": "Low", "demographics": {"total_voters": 62000, "win_probability": 92, "margin": 15000}},
+                "Ward 128 (Burvenagar)": {"coords": [19.07, 72.89], "severity": "Medium", "demographics": {"total_voters": 58000, "win_probability": 75, "margin": 4000}},
+                "Ward 129 (Chiraagnagar)": {"coords": [19.06, 72.88], "severity": "High", "demographics": {"total_voters": 60000, "win_probability": 65, "margin": 1000}}
+            }
+        },
+        "Ghatkopar East (170)": {
+            "role": "Power Base",
+            "model": "Narrative",
+            "demographics": {"total_voters": 285000, "male": 150000, "female": 135000, "turnout": 56.0, "win_probability": 95, "margin": 50000},
+            "wards": {
+                "Ward 130 (Kirol Village)": {"coords": [19.08, 72.92], "severity": "Medium", "demographics": {"total_voters": 68000, "win_probability": 85, "margin": 10000}},
+                "Ward 131 (Naidu Colony)": {"coords": [19.09, 72.93], "severity": "Low", "demographics": {"total_voters": 70000, "win_probability": 98, "margin": 20000}},
+                "Ward 132 (Garodia Nagar)": {"coords": [19.10, 72.94], "severity": "Low", "demographics": {"total_voters": 72000, "win_probability": 99, "margin": 25000}},
+                "Ward 133 (Kamraj Nagar)": {"coords": [19.07, 72.93], "severity": "Medium", "demographics": {"total_voters": 65000, "win_probability": 80, "margin": 8000}}
+            }
+        },
+        "Mankhurd Shivaji Nagar (171)": {
+            "role": "Opportunity Zone",
+            "model": "Polarized",
+            "demographics": {"total_voters": 334136, "male": 187192, "female": 146915, "turnout": 52.1, "win_probability": 20, "margin": -20000},
+            "wards": {
+                "Ward 134 (Kamala Nagar)": {"coords": [19.05, 72.87], "severity": "High", "demographics": {"total_voters": 15000, "win_probability": 70, "margin": 1669}},
+                "Ward 135 (Cheeta Camp)": {"coords": [18.98, 72.82], "severity": "Very High", "demographics": {"total_voters": 13211, "win_probability": 30, "margin": -2000}},
+                "Ward 136 (Shivaji Nagar Terminus)": {"coords": [19.04, 72.86], "severity": "High", "demographics": {"total_voters": 20000, "win_probability": 15, "margin": -8000}},
+                "Ward 137 (Shivajinagar)": {"coords": [19.05, 72.87], "severity": "Very High", "demographics": {"total_voters": 25000, "win_probability": 10, "margin": -12000}}
             }
         }
     }
